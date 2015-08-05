@@ -1,0 +1,2 @@
+/Users/yutongpang/ClionProjects/swigtutorial/build/CMakeFiles/_example.dir
+/Users/yutongpang/ClionProjects/swigtutorial/build/ExternallibCore/CMakeFiles/externallibCore.dir

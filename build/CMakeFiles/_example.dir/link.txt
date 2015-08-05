@@ -1,0 +1,1 @@
+/usr/bin/c++   -std=c++11 -bundle -Wl,-headerpad_max_install_names  -o _example.so CMakeFiles/_example.dir/examplePYTHON_wrap.cxx.o CMakeFiles/_example.dir/example.cpp.o /usr/lib/libpython2.7.dylib ExternallibCore/libexternallibCore.a 

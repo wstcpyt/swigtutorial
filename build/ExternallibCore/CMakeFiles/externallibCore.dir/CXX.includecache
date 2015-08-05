@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/yutongpang/ClionProjects/swigtutorial/ExternallibCore/testlib.cpp
+testlib.h
+/Users/yutongpang/ClionProjects/swigtutorial/ExternallibCore/testlib.h
+
+/Users/yutongpang/ClionProjects/swigtutorial/ExternallibCore/testlib.h
+

@@ -1,0 +1,2 @@
+/usr/bin/ar cq libexternallibCore.a  CMakeFiles/externallibCore.dir/testlib.cpp.o
+/usr/bin/ranlib libexternallibCore.a
